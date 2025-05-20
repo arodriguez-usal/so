@@ -1,5 +1,2 @@
 # USAL - SISTEMAS OPERATIVOS
 
-
-
-
